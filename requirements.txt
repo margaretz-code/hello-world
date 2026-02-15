@@ -1,6 +1,1 @@
-numpy
-pandas
-matplotlib
-dash
-plotly
-jupyterlab_vim
+
